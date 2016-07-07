@@ -21,4 +21,4 @@ import "phoenix_html"
 // import socket from "./socket"
 
 // Set up Elm
-Elm.App.embed(document.querySelector('#elm-container'))
+Elm.Main.embed(document.querySelector('#elm-container'))
